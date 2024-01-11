@@ -1,0 +1,14 @@
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\bin\Release\net6.0\Assignment.exe
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\bin\Release\net6.0\Assignment.deps.json
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\bin\Release\net6.0\Assignment.runtimeconfig.json
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\bin\Release\net6.0\Assignment.dll
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\bin\Release\net6.0\Assignment.pdb
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\obj\Release\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\obj\Release\net6.0\Assignment.AssemblyInfoInputs.cache
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\obj\Release\net6.0\Assignment.AssemblyInfo.cs
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\obj\Release\net6.0\Assignment.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\obj\Release\net6.0\Assignment.dll
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\obj\Release\net6.0\refint\Assignment.dll
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\obj\Release\net6.0\Assignment.pdb
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\obj\Release\net6.0\Assignment.genruntimeconfig.cache
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\obj\Release\net6.0\ref\Assignment.dll

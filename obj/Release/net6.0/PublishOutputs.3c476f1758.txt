@@ -1,0 +1,5 @@
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\bin\Release\net6.0\publish\Assignment.exe
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\bin\Release\net6.0\publish\Assignment.dll
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\bin\Release\net6.0\publish\Assignment.deps.json
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\bin\Release\net6.0\publish\Assignment.runtimeconfig.json
+D:\Mphasis\Phase-4\Assignment-5\Assignment\Assignment\bin\Release\net6.0\publish\Assignment.pdb
